@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35818.85 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoApi", "CryptoApi\CryptoApi.csproj", "{E6A7B9C3-FC81-4634-8FD9-1C5E36228013}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoApi.Api", "CryptoApi\CryptoApi.Api.csproj", "{E6A7B9C3-FC81-4634-8FD9-1C5E36228013}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoApi.Presentation", "CryptoApi.Presentation\CryptoApi.Presentation.csproj", "{DD6AB732-6D43-4579-AAAD-6832D3336EB1}"
 EndProject
